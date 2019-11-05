@@ -1,8 +1,0 @@
-# gdp
-
-The code in 'apply.gdp.to.certain.ind.prod.ipynb' shows which products and industries to apply gdp figures to and not to.
-
-The raw data for this code is raw_products_industries.xlsx and apply_gdp_figures.xlsx 
-
-
-apply.gdp.to.certain.ind.prod.html easily shows(using a web browser) the code of 'apply.gdp.to.certain.ind.prod.ipynb'
